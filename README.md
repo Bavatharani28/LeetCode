@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/Bavatharani28/LeetCode/tree/master/1871-jump-game-vii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Bavatharani28/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bavatharani28/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Bavatharani28/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
