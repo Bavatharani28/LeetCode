@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bavatharani28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1871-jump-game-vii](https://github.com/Bavatharani28/LeetCode/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1871-jump-game-vii](https://github.com/Bavatharani28/LeetCode/tree/master/1871-jump-game-vii) |
 ## Tree
 |  |
@@ -47,9 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bavatharani28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bavatharani28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
