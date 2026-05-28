@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Bavatharani28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bavatharani28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bavatharani28/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Bavatharani28/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Bavatharani28/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
