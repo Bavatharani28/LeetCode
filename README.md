@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Bavatharani28/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Bavatharani28/LeetCode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Bavatharani28/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1871-jump-game-vii](https://github.com/Bavatharani28/LeetCode/tree/master/1871-jump-game-vii) |
