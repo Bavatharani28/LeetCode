@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Bavatharani28/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Bavatharani28/LeetCode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Bavatharani28/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/Bavatharani28/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Bavatharani28/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Bavatharani28/LeetCode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bavatharani28/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Bavatharani28/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Bavatharani28/LeetCode/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bavatharani28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bavatharani28/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Array
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bavatharani28/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Bavatharani28/LeetCode/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bavatharani28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Binary Search
 |  |
