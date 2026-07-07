@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bavatharani28/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Bavatharani28/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Bavatharani28/LeetCode/tree/master/0274-h-index) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bavatharani28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1480-running-sum-of-1d-array](https://github.com/Bavatharani28/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Bavatharani28/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bavatharani28/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Bavatharani28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bavatharani28/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Bavatharani28/LeetCode/tree/master/0274-h-index) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Bavatharani28/LeetCode/tree/master/0078-subsets) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Bavatharani28/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
