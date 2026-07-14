@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bavatharani28/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Bavatharani28/LeetCode/tree/master/0071-simplify-path) |
 | [0739-daily-temperatures](https://github.com/Bavatharani28/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Bavatharani28/LeetCode/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bavatharani28/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Bavatharani28/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Bavatharani28/LeetCode/tree/master/0901-online-stock-span) |
 ## Trie
 |  |
 | ------- |
@@ -250,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Bavatharani28/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Bavatharani28/LeetCode/tree/master/0620-not-boring-movies) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bavatharani28/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Bavatharani28/LeetCode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Bavatharani28/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
