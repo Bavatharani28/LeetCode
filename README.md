@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Bavatharani28/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Bavatharani28/LeetCode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Bavatharani28/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/Bavatharani28/LeetCode/tree/master/0224-basic-calculator) |
 | [0383-ransom-note](https://github.com/Bavatharani28/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Bavatharani28/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Bavatharani28/LeetCode/tree/master/0412-fizz-buzz) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Bavatharani28/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Bavatharani28/LeetCode/tree/master/0071-simplify-path) |
+| [0224-basic-calculator](https://github.com/Bavatharani28/LeetCode/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/Bavatharani28/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Bavatharani28/LeetCode/tree/master/0901-online-stock-span) |
 ## Linked List
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bavatharani28/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0224-basic-calculator](https://github.com/Bavatharani28/LeetCode/tree/master/0224-basic-calculator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Bavatharani28/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Bavatharani28/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Bavatharani28/LeetCode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Bavatharani28/LeetCode/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/Bavatharani28/LeetCode/tree/master/0412-fizz-buzz) |
 ## Greedy
 |  |
