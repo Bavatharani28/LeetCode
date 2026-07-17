@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Bavatharani28/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Bavatharani28/LeetCode/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/Bavatharani28/LeetCode/tree/master/0289-game-of-life) |
 | [0739-daily-temperatures](https://github.com/Bavatharani28/LeetCode/tree/master/0739-daily-temperatures) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bavatharani28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1480-running-sum-of-1d-array](https://github.com/Bavatharani28/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -227,11 +228,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Bavatharani28/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Bavatharani28/LeetCode/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Bavatharani28/LeetCode/tree/master/0036-valid-sudoku) |
+| [0289-game-of-life](https://github.com/Bavatharani28/LeetCode/tree/master/0289-game-of-life) |
 | [1672-richest-customer-wealth](https://github.com/Bavatharani28/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Union-Find
 |  |
