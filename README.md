@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Bavatharani28/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bavatharani28/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bavatharani28/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/Bavatharani28/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Bavatharani28/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bavatharani28/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Bavatharani28/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0797-all-paths-from-source-to-target](https://github.com/Bavatharani28/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Bavatharani28/LeetCode/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0140-word-break-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/Bavatharani28/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0140-word-break-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Bavatharani28/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
