@@ -1,5 +1,5 @@
 class Solution {
-    static void com(Set<List<Integer>> llist,List<Integer> list,int[] cand,int tar,int sum,int j){
+    static void com(List<List<Integer>> llist,List<Integer> list,int[] cand,int tar,int sum,int j){
         if(sum==tar){
             llist.add(new ArrayList(list));
             return ;
@@ -9,7 +9,6 @@ class Solution {
         for(int i=j;i<cand.length;i++){
             sum+=cand[i];
             list.add(cand[i]);
-            //Collections.sort(list);
             com(llist,list,cand,tar,sum,i);
             sum-=cand[i];
             list.remove(list.size()-1);
@@ -17,10 +16,11 @@ class Solution {
         }
     }
     public List<List<Integer>> combinationSum(int[] cand, int tar) {
-        Set<List<Integer>> llist=new HashSet<>();
+        List<List<Integer>> llist=new ArrayList<>();
         List<Integer> list=new ArrayList<>();
         // Arrays.sort(cand);
         com(llist,list,cand,tar,0,0);
-        return new ArrayList<>(llist);
+        //return new ArrayList<>(llist);
+        return llist;
     }
 }
