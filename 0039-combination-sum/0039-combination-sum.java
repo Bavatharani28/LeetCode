@@ -1,23 +1,26 @@
 class Solution {
-     static List<List<Integer>> list;
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        list=new ArrayList<>();
-        List<Integer> lis=new ArrayList<>();
-        backtrack(candidates,target,0,lis); 
-        return list;
-    }
-    public static void backtrack(int[] cand,int target,int in,List<Integer> lis){
-        if(target==0)
-        {
-            list.add(new ArrayList<>(lis));
-            return;
+    static void com(Set<List<Integer>> llist,List<Integer> list,int[] cand,int tar,int sum,int j){
+        if(sum==tar){
+            llist.add(new ArrayList(list));
+            return ;
         }
-        if(target<0)return;
-        for(int i=in;i<cand.length;i++){
-            lis.add(cand[i]);
-            backtrack(cand,target-cand[i],i,lis);
-            lis.remove(lis.size()-1);
+        if(sum>tar)
+        return ;
+        for(int i=j;i<cand.length;i++){
+            sum+=cand[i];
+            list.add(cand[i]);
+            //Collections.sort(list);
+            com(llist,list,cand,tar,sum,i);
+            sum-=cand[i];
+            list.remove(list.size()-1);
+
         }
     }
-    
+    public List<List<Integer>> combinationSum(int[] cand, int tar) {
+        Set<List<Integer>> llist=new HashSet<>();
+        List<Integer> list=new ArrayList<>();
+        // Arrays.sort(cand);
+        com(llist,list,cand,tar,0,0);
+        return new ArrayList<>(llist);
+    }
 }
