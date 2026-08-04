@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bavatharani28/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Bavatharani28/LeetCode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Bavatharani28/LeetCode/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/Bavatharani28/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Bavatharani28/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Bavatharani28/LeetCode/tree/master/0224-basic-calculator) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bavatharani28/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Bavatharani28/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Bavatharani28/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Bavatharani28/LeetCode/tree/master/0198-house-robber) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Bavatharani28/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Bavatharani28/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0140-word-break-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bavatharani28/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Search Tree
