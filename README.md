@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Bavatharani28/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Bavatharani28/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Bavatharani28/LeetCode/tree/master/0392-is-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Bavatharani28/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1871-jump-game-vii](https://github.com/Bavatharani28/LeetCode/tree/master/1871-jump-game-vii) |
 ## Sliding Window
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Bavatharani28/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Bavatharani28/LeetCode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Bavatharani28/LeetCode/tree/master/0289-game-of-life) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Bavatharani28/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0739-daily-temperatures](https://github.com/Bavatharani28/LeetCode/tree/master/0739-daily-temperatures) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bavatharani28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1480-running-sum-of-1d-array](https://github.com/Bavatharani28/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Bavatharani28/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Bavatharani28/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0140-word-break-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Bavatharani28/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bavatharani28/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Search Tree
 |  |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Bavatharani28/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0090-subsets-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Bavatharani28/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Counting Sort
 |  |
 | ------- |
@@ -313,8 +317,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0140-word-break-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Bavatharani28/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Graph Theory
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Bavatharani28/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Bavatharani28/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
