@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Bavatharani28/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Bavatharani28/LeetCode/tree/master/0224-basic-calculator) |
+| [0301-remove-invalid-parentheses](https://github.com/Bavatharani28/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bavatharani28/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Bavatharani28/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Bavatharani28/LeetCode/tree/master/0392-is-subsequence) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Bavatharani28/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bavatharani28/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Bavatharani28/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/Bavatharani28/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bavatharani28/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Hash Table
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Bavatharani28/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Bavatharani28/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Bavatharani28/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bavatharani28/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bavatharani28/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Search Tree
