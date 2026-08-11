@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bavatharani28/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0739-daily-temperatures](https://github.com/Bavatharani28/LeetCode/tree/master/0739-daily-temperatures) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bavatharani28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1219-path-with-maximum-gold](https://github.com/Bavatharani28/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1480-running-sum-of-1d-array](https://github.com/Bavatharani28/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Bavatharani28/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Counting
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Bavatharani28/LeetCode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/Bavatharani28/LeetCode/tree/master/0289-game-of-life) |
+| [1219-path-with-maximum-gold](https://github.com/Bavatharani28/LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1672-richest-customer-wealth](https://github.com/Bavatharani28/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Union-Find
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Bavatharani28/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bavatharani28/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bavatharani28/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [1219-path-with-maximum-gold](https://github.com/Bavatharani28/LeetCode/tree/master/1219-path-with-maximum-gold) |
 ## Binary Search Tree
 |  |
 | ------- |
