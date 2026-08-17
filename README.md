@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Bavatharani28/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Bavatharani28/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Bavatharani28/LeetCode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bavatharani28/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1871-jump-game-vii](https://github.com/Bavatharani28/LeetCode/tree/master/1871-jump-game-vii) |
 ## Sliding Window
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Bavatharani28/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Bavatharani28/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1871-jump-game-vii](https://github.com/Bavatharani28/LeetCode/tree/master/1871-jump-game-vii) |
 ## Tree
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Bavatharani28/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Bavatharani28/LeetCode/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Bavatharani28/LeetCode/tree/master/0289-game-of-life) |
+| [0410-split-array-largest-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Bavatharani28/LeetCode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0739-daily-temperatures](https://github.com/Bavatharani28/LeetCode/tree/master/0739-daily-temperatures) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bavatharani28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bavatharani28/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bavatharani28/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
 | ------- |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Bavatharani28/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Bavatharani28/LeetCode/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/Bavatharani28/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Monotonic Stack
 |  |
