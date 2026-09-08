@@ -1,47 +1,45 @@
 class Solution {
-    private boolean isSafePlace(int n, char[][] nQueens, int row, int col) {
-        for (int i = 0; i < n; i++) {
-            if (nQueens[i][col] == 'Q') {
-                return false;
-            }
+    static boolean safe(int n,char[][]queen,int r,int c){
+        for(int i=0;i<n;i++){
+            if(queen[i][c]=='Q')
+            return false;
         }
-        for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
-            if (nQueens[i][j] == 'Q') {
-                return false;
-            }
+        for(int i=r-1,j=c-1;i>=0&&j>=0;i--,j--){
+            if(queen[i][j]=='Q')
+            return false;
         }
-        for (int i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++) {
-            if (nQueens[i][j] == 'Q') {
-                return false;
-            }
+        for(int i=r-1,j=c+1;i>=0&&j<n;i--,j++){
+            if(queen[i][j]=='Q')
+            return false;
         }
         return true;
     }
-    private void solveNQueens(int n, List<List<String>> output, char[][] nQueens, int row) {
-        if (row == n) {
-            List<String> solution = new ArrayList<>();
-            for (char[] rowArray : nQueens) {
-                solution.add(new String(rowArray));
+    static void bc(int n,char[][] queen,List<List<String>> list,int i){
+        if(i==n){
+            List<String> ls=new ArrayList<>();
+            for(char[] ch:queen){
+                ls.add(new String(ch));
             }
-            output.add(solution);
+            list.add(ls);
             return;
         }
-        for (int col = 0; col < n; col++) {
-            if (isSafePlace(n, nQueens, row, col)) {
-                nQueens[row][col] = 'Q';
-                solveNQueens(n, output, nQueens, row + 1);
-                nQueens[row][col] = '.';
+        for(int j=0;j<n;j++){
+            if(safe(n,queen,i,j)){
+                queen[i][j]='Q';
+                bc(n,queen,list,i+1);
+                queen[i][j]='.';
             }
         }
     }
-    
     public List<List<String>> solveNQueens(int n) {
-        List<List<String>> output = new ArrayList<>();
-        char[][] nQueens = new char[n][n];
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(nQueens[i], '.');
+        List<List<String>> list=new ArrayList<>();
+        char[][] queen=new char[n][n];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                queen[i][j]='.';
+            }
         }
-        solveNQueens(n, output, nQueens, 0);
-        return output;
+        bc(n,queen,list,0);
+        return list;
     }
 }
