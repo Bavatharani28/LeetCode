@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Bavatharani28/LeetCode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Bavatharani28/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Bavatharani28/LeetCode/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/Bavatharani28/LeetCode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Bavatharani28/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Bavatharani28/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Bavatharani28/LeetCode/tree/master/0383-ransom-note) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Bavatharani28/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Bavatharani28/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Bavatharani28/LeetCode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Bavatharani28/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Bavatharani28/LeetCode/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bavatharani28/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Bavatharani28/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bavatharani28/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Bavatharani28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bavatharani28/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Bavatharani28/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Bavatharani28/LeetCode/tree/master/0274-h-index) |
 | [0611-valid-triangle-number](https://github.com/Bavatharani28/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
