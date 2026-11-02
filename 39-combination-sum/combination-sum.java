@@ -1,0 +1,24 @@
+class Solution {
+    static void com(List<List<Integer>> llist,List<Integer> list,int[] cand,int tar,int sum,int j){
+        if(sum==tar){
+            llist.add(new ArrayList(list));
+            return ;
+        }
+        if(sum>tar)
+        return ;
+        for(int i=j;i<cand.length;i++){
+            sum+=cand[i];
+            list.add(cand[i]);
+            com(llist,list,cand,tar,sum,i);
+            sum-=cand[i];
+            list.remove(list.size()-1);
+
+        }
+    }
+    public List<List<Integer>> combinationSum(int[] cand, int tar) {
+        List<List<Integer>> llist=new ArrayList<>();
+        List<Integer> list=new ArrayList<>();
+        com(llist,list,cand,tar,0,0);
+        return llist;
+    }
+}
