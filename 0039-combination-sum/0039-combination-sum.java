@@ -18,9 +18,7 @@ class Solution {
     public List<List<Integer>> combinationSum(int[] cand, int tar) {
         List<List<Integer>> llist=new ArrayList<>();
         List<Integer> list=new ArrayList<>();
-        // Arrays.sort(cand);
         com(llist,list,cand,tar,0,0);
-        //return new ArrayList<>(llist);
         return llist;
     }
 }
